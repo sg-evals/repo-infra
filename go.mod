@@ -1,6 +1,6 @@
 module k8s.io/repo-infra
 
-go 1.13
+go 1.16
 
 require (
 	github.com/bazelbuild/bazel-gazelle v0.21.1
